@@ -109,6 +109,7 @@ Tres indicadores simples al día 14: (1) porcentaje de tareas terminadas a tiemp
 Una hora la primera vez. Después, agregar una tarjeta toma 20 segundos — menos que escribir el mensaje en el chat.
 
 ---
+-[Link](https://youtu.be/d2P24QJAoCA)
 
 ## Referencias
 
