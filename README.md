@@ -1,10 +1,10 @@
 # Propuesta persuasiva: adopción de Trello para la gestión de tareas del equipo
 
-**Curso:** Habilidades y Competencias Profesionales
-**Actividad:** Práctica 10 — Propuesta persuasiva de 3 minutos
-**Universidad:** USAC — Facultad de Ingeniería, Escuela de Ciencias y Sistemas
-**Equipo:** [Diego Enrique Flores Ruiz]
-**Fecha:** [21/04/2026]
+- **Curso:** Habilidades y Competencias Profesionales
+- **Actividad:** Práctica 10 — Propuesta persuasiva de 3 minutos
+- **Universidad:** USAC — Facultad de Ingeniería, Escuela de Ciencias y Sistemas
+- **Equipo:** [Diego Enrique Flores Ruiz]
+- **Fecha:** [21/04/2026]
 
 ---
 
